@@ -33,6 +33,7 @@ a {
 }
 
 .header_logo {
+    background-image: url(../img/Frame.svg);
     width: 158.578125px;
     height: 36px;
     margin-left: 40px;
@@ -94,6 +95,8 @@ h1 {
 
 
 .section_one-img {
+    background-image: url(../img/Rectangle.png);
+    background-repeat: no-repeat;
     width: 700px;
     height: 620px;
     margin-left: 741px;
@@ -124,14 +127,14 @@ h1 {
 }
 
 .card__image-2 {
-    background-image: url(/img/Rectangle2.svg);
+    background-image: url(../img/Rectangle2.svg);
     background-repeat: no-repeat;
     width: 453px;
     height: 418px;
 }
 
 .card__image-3 {
-    background-image: url(/img/Rectangle3.svg);
+    background-image: url(../img/Rectangle3.svg);
     background-repeat: no-repeat;
     width: 453px;
     height: 418px;
